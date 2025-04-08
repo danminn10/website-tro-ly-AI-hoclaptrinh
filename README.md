@@ -57,11 +57,8 @@ Truy cập tại `http://localhost:3000`.
 
 ```
 website-tro-ly-AI-hoclaptrinh/
-├── client/                  # Giao diện người dùng (frontend)
-├── server/                  # API và xử lý backend
-├── uploads/                 # Ảnh tạm upload
-├── .env                     # Biến môi trường (ẩn)
-├── package.json             # Thông tin dependencies
+├── fe/                  # Giao diện người dùng (frontend)
+├── be/                  # API và xử lý backend
 └── README.md                # File hướng dẫn
 ```
 
