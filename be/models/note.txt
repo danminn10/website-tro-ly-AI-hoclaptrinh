@@ -1,0 +1,15 @@
+dữ liệu mẫu: questions trong bảng quizz bỏ answer vì trong questions có đáp án rồi;
+[
+  {
+    "questionText": "What is the result of 2 + 2?",
+    "options": ["3", "4", "5", "6"],
+    "correctAnswer": ["4"], // Câu hỏi này có một đáp án đúng
+    "explanation": "2 + 2 equals 4."
+  },
+  {
+    "questionText": "Which of the following are programming languages?",
+    "options": ["HTML", "Python", "CSS", "JavaScript"],
+    "correctAnswer": ["Python", "JavaScript"], // Câu hỏi này có nhiều đáp án đúng
+    "explanation": "Python and JavaScript are programming languages."
+  }
+]
